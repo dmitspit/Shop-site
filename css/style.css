@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+#products{
+
+}
+img{
+    width: 250px;
+    height: 150px;
+    
+}
+.info-goods{
+    width: 250px;
+    height: 200px;
+    margin: 0 auto;
+    margin: 20px 0;
+    float: left;
+ 
+};
